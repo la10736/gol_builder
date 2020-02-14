@@ -1,0 +1,8 @@
+[package]
+name = "gol_builder"
+version = "0.1.0"
+authors = ["Michele d'Amico <michele.damico@gmail.com>"]
+edition = "2018"
+
+[dev-dependencies]
+unindent = "0.1.5"
